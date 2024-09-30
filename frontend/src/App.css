@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+}
+.viewBook{
+  outline: none;
+  border: 2px solid rgb(17, 16, 16);
+  border-radius: 8px;
+  background-color: rgb(162, 255, 0);
+  padding: 5px 20px 5px 20px;
+  color: black;
+  font-size: 20px;
+}
+
+
+
